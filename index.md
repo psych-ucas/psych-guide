@@ -8,7 +8,7 @@ titleTemplate: 心理学系生存指南
 hero:
   name: psych-guide
   text: 心理学系生存指南
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  tagline: 这里是介绍
   image:
     src: /logo.svg
     alt: Vitest
